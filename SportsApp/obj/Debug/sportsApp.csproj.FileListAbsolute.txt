@@ -1,0 +1,10 @@
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\bin\Debug\sportsApp.exe.config
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\bin\Debug\sportsApp.exe
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\bin\Debug\sportsApp.pdb
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.csproj.AssemblyReference.cache
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.Home.resources
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.Properties.Resources.resources
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.csproj.GenerateResource.cache
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.exe
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.pdb

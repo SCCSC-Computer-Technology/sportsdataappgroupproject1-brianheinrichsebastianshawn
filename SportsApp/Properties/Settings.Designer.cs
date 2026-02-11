@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SportsApp.Properties
+namespace sportsApp.Properties
 {
 
 
