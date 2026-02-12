@@ -16,5 +16,16 @@ namespace sportsApp
         {
             InitializeComponent();
         }
+
+        private void registerLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            RegistrationControl registrationControl = new RegistrationControl();
+
+            registrationControl.Dock = DockStyle.Fill;  // makes it fill the form
+
+            this.Controls.Add(registrationControl);
+
+            registrationControl.BringToFront();
+        }
     }
 }

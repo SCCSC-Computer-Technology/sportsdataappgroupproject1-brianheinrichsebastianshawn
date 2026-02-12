@@ -8,3 +8,6 @@ C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\
 C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.csproj.CoreCompileInputs.cache
 C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.exe
 C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\sportsApp\obj\Debug\sportsApp.pdb
+C:\Users\Shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\SportsApp\bin\Debug\SportsAppDatabase.mdf
+C:\Users\Shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\SportsApp\bin\Debug\SportsAppDatabase_log.ldf
+C:\Users\Shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\SportsApp\obj\Debug\sportsApp.RegistrationControl.resources
