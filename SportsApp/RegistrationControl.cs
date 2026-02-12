@@ -32,6 +32,13 @@ namespace sportsApp
             string email = emailTextbox.Text;
             string password = passwordTextbox.Text;
 
+            if (string.IsNullOrWhiteSpace(firstName) || string.IsNullOrWhiteSpace(lastName) ||
+                string.IsNullOrWhiteSpace(email)     || string.IsNullOrWhiteSpace(password))
+            {
+                MessageBox.Show("Ensure all fields are complete.");
+                return;
+            }
+
             User newUser = new User(email, password, firstName, lastName);
 
             usersList.Add(newUser);
@@ -44,6 +51,11 @@ namespace sportsApp
             passwordTextbox.Clear();
 
             this.Parent.Controls.Remove(this);
+        }
+
+        private void RegistrationControl_Load(object sender, EventArgs e)
+        {
+            firstNameTextbox.Focus();
         }
     }
 }

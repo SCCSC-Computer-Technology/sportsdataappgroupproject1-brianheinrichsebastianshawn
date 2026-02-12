@@ -19,13 +19,27 @@ namespace sportsApp
 
         private void registerLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            RegistrationControl registrationControl = new RegistrationControl();
-
-            registrationControl.Dock = DockStyle.Fill;
-
             this.Controls.Add(registrationControl);
 
             registrationControl.BringToFront();
+        }
+
+        private void signInButton_Click(object sender, EventArgs e)
+        {
+            // take text from email box
+            String email = emailTextbox.Text;
+
+            // take text from password box
+            String password = passwordTextbox.Text;
+
+            if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password))
+            {
+                MessageBox.Show("Enter email and password.");
+                return;
+            }
+
+            // check to see if email or password are in User table
+
         }
     }
 }

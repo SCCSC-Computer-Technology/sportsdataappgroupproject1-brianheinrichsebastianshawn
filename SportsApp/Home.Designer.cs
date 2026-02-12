@@ -47,51 +47,58 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(44, 138);
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(99, 130);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(34, 13);
+            this.label1.Size = new System.Drawing.Size(36, 15);
             this.label1.TabIndex = 99;
             this.label1.Text = "Email";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(44, 178);
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(99, 190);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(56, 13);
+            this.label2.Size = new System.Drawing.Size(57, 15);
             this.label2.TabIndex = 100;
             this.label2.Text = "Password";
             // 
             // emailTextbox
             // 
-            this.emailTextbox.Location = new System.Drawing.Point(129, 135);
+            this.emailTextbox.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.emailTextbox.Location = new System.Drawing.Point(102, 156);
             this.emailTextbox.Name = "emailTextbox";
-            this.emailTextbox.Size = new System.Drawing.Size(131, 22);
+            this.emailTextbox.Size = new System.Drawing.Size(131, 23);
             this.emailTextbox.TabIndex = 0;
             // 
             // passwordTextbox
             // 
-            this.passwordTextbox.Location = new System.Drawing.Point(129, 178);
+            this.passwordTextbox.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.passwordTextbox.Location = new System.Drawing.Point(102, 215);
             this.passwordTextbox.Name = "passwordTextbox";
-            this.passwordTextbox.Size = new System.Drawing.Size(131, 22);
+            this.passwordTextbox.Size = new System.Drawing.Size(131, 23);
             this.passwordTextbox.TabIndex = 1;
             // 
             // signInButton
             // 
-            this.signInButton.Location = new System.Drawing.Point(129, 231);
+            this.signInButton.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.signInButton.Location = new System.Drawing.Point(129, 268);
             this.signInButton.Name = "signInButton";
             this.signInButton.Size = new System.Drawing.Size(75, 23);
             this.signInButton.TabIndex = 2;
             this.signInButton.Text = "Sign In";
             this.toolTip1.SetToolTip(this.signInButton, "Press to Sign In");
             this.signInButton.UseVisualStyleBackColor = true;
+            this.signInButton.Click += new System.EventHandler(this.signInButton_Click);
             // 
             // registerLink
             // 
             this.registerLink.AutoSize = true;
-            this.registerLink.Location = new System.Drawing.Point(122, 282);
+            this.registerLink.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.registerLink.Location = new System.Drawing.Point(119, 307);
             this.registerLink.Name = "registerLink";
-            this.registerLink.Size = new System.Drawing.Size(90, 13);
+            this.registerLink.Size = new System.Drawing.Size(94, 15);
             this.registerLink.TabIndex = 3;
             this.registerLink.TabStop = true;
             this.registerLink.Text = "Click To Register";
@@ -124,10 +131,11 @@
             // 
             // registrationControl
             // 
+            this.registrationControl.BackColor = System.Drawing.Color.White;
             this.registrationControl.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.registrationControl.Location = new System.Drawing.Point(-3, 0);
+            this.registrationControl.Location = new System.Drawing.Point(468, 0);
             this.registrationControl.Name = "registrationControl";
-            this.registrationControl.Size = new System.Drawing.Size(803, 450);
+            this.registrationControl.Size = new System.Drawing.Size(332, 450);
             this.registrationControl.TabIndex = 6;
             // 
             // Home
