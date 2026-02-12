@@ -21,7 +21,7 @@ namespace sportsApp
         {
             RegistrationControl registrationControl = new RegistrationControl();
 
-            registrationControl.Dock = DockStyle.Fill;  // makes it fill the form
+            registrationControl.Dock = DockStyle.Fill;
 
             this.Controls.Add(registrationControl);
 

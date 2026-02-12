@@ -12,9 +12,38 @@ namespace sportsApp
 {
     public partial class RegistrationControl : UserControl
     {
+
+        List<User> usersList = new List<User>();
+
         public RegistrationControl()
         {
             InitializeComponent();
+        }
+
+        private void cancelButton_Click(object sender, EventArgs e)
+        {
+            this.Parent.Controls.Remove(this);
+        }
+
+        private void registerButton_Click(object sender, EventArgs e)
+        {
+            string firstName = firstNameTextbox.Text;
+            string lastName = lastNameTextbox.Text;
+            string email = emailTextbox.Text;
+            string password = passwordTextbox.Text;
+
+            User newUser = new User(email, password, firstName, lastName);
+
+            usersList.Add(newUser);
+
+            MessageBox.Show("Registration Successful");
+
+            firstNameTextbox.Clear();
+            lastNameTextbox.Clear();
+            emailTextbox.Clear();
+            passwordTextbox.Clear();
+
+            this.Parent.Controls.Remove(this);
         }
     }
 }

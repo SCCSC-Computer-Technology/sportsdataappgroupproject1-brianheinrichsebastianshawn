@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\",
+  "WorkspaceRootPath": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\registrationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:registrationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\registrationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:registrationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|c:\\users\\shawn\\documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\sportsapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|c:\\users\\shawn\\documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\sportsapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|c:\\users\\shawn\\documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\sportsapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|c:\\users\\shawn\\documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\sportsapp\\registrationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:registrationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|c:\\users\\shawn\\documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\sportsapp\\registrationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:registrationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|c:\\users\\shawn\\documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\sportsapp\\registrationcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB84F0A-98F2-41AA-96C7-441657B065C6}|sportsApp.csproj|solutionrelative:registrationcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,53 +30,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegistrationControl.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.Designer.cs",
-              "RelativeDocumentMoniker": "RegistrationControl.Designer.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.Designer.cs",
-              "RelativeToolTip": "RegistrationControl.Designer.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAIwIUAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T15:30:33.674Z",
+              "WhenOpened": "2026-02-12T14:38:46.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RegistrationControl.cs",
-              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.cs",
               "RelativeDocumentMoniker": "RegistrationControl.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.cs",
+              "ToolTip": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.cs",
               "RelativeToolTip": "RegistrationControl.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T15:30:13.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RegistrationControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.cs",
               "RelativeDocumentMoniker": "RegistrationControl.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.cs [Design]",
+              "ToolTip": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\RegistrationControl.cs [Design]",
               "RelativeToolTip": "RegistrationControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T15:05:19.457Z",
               "EditorCaption": " [Design]"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\Home.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\Home.cs [Design]",
+              "ToolTip": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\Home.cs [Design]",
               "RelativeToolTip": "Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T01:44:16.451Z",
@@ -90,26 +92,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\Home.cs",
+              "DocumentMoniker": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\Home.cs",
+              "ToolTip": "C:\\Users\\shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\Home.cs",
               "RelativeToolTip": "Home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T14:50:35.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "C:\\Users\\Shawn\\Documents\\sportsdataappgroupproject1-brianheinrichsebastianshawn\\SportsApp\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T14:38:46.573Z",
               "EditorCaption": ""
             }
           ]
