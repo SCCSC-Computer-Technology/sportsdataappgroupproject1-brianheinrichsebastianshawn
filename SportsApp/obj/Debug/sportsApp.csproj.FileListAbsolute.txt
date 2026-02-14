@@ -11,3 +11,5 @@ C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\
 C:\Users\Shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\SportsApp\bin\Debug\SportsAppDatabase.mdf
 C:\Users\Shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\SportsApp\bin\Debug\SportsAppDatabase_log.ldf
 C:\Users\Shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\SportsApp\obj\Debug\sportsApp.RegistrationControl.resources
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\SportsApp\obj\Debug\sportsApp.LoginControl.resources
+C:\Users\shawn\Documents\sportsdataappgroupproject1-brianheinrichsebastianshawn\SportsApp\obj\Debug\sportsApp.NavControl.resources
